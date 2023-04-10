@@ -13,6 +13,8 @@ gamifySDK = {
   },
   formatCash: function(thinEnabled,n) {
 
+    console.log("added");
+
     if (!(thinEnabled)) 
         return n;
 
