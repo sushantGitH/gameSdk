@@ -12,10 +12,6 @@ gamifySDK = {
     
   },
   formatCash: function(thinEnabled,n) {
-
-    console.log("added");
-    console.log("newsss- change");
-
     if (!(thinEnabled)) 
         return n;
 
